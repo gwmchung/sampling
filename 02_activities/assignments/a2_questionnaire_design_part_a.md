@@ -16,30 +16,38 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to find out what are the potential issues that entry- and lower-level position workers experience, which may lead to them quitting the job.  For each of the issues, we would find out the changes that are needed to rectify the problem.  
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+The target population is those employees that are in entry- and lower-level positions, and belong to a department that suffers from the high turnover issue.  The position level should be identified by the grade or class of the employee in the HR database, and the department information should also be identifiable.  
+
+In order to identify which departments are affected, we will define high turnover rate as an attrition rate over 20%.  Attrition rate is defined as the number of employees from a specific department leaving voluntarily in a month divided by the total number of employees in that department.  
+
+The sampling frame is 30% of the entry- and lower-level positioned employees in each affected department.  They are randomly selected within the department and will receive an email invitation to do the survey.
+
+The sampling unit is an employee.  Observational unit is also an employee.
+
+We will use stratified sampling.  The strata is by department and composed of all departments that are affected.  The units belong to each strata must be in entry- or lower-level position.     From each strata, 30% of units are sent a survey.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. Do you plan to leave the company in the next 6 momnths? (choices are: yes, no)
+2. If yes to #1, why? (text area)
+3. Are you satisfied with your pay?  (choices are: very satisfied, satisfied, indifferent, unsatisified, very unsatisfied)
+4. Are you satisfied with your work hours?  (choices are: very satisfied, satisfied, indifferent, unsatisified, very unsatisfied)
+5. Are you satisfied with your work environment?  If not, what are you unhappy about? (choices are: office environment, lunch room, office location.  Leave room for text.)
+6. Are you satisfied with on-site policy? (choices are: too many onsite days, just right, too few onsite days)
+7. Are you satisfied with the training you receive at work? (choices are: very satisfied, satisfied, indifferent, unsatisified, very unsatisfied)
+8. Are you satisfied with your manager? (choices are: very satisfied, satisfied, indifferent, unsatisified, very unsatisfied)
+9. Are you satisfied with your senior leadership? (choices are: very satisfied, satisfied, indifferent, unsatisified, very unsatisfied)
+10. Are you satisfied with  your team? (choices are: very satisfied, satisfied, indifferent, unsatisified, very unsatisfied)
 ```
 
 ## Rubric
