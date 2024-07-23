@@ -4,7 +4,7 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    I expect my sample to be representative of my target population.  Because my target population is 30% of target population.  And the target population are the employees that are in entry and lower-positions in the departments that suffer a high turnover.  
+    I expect my sample to be representative of my target population.  Because my sampling frame is 30% of target population.  And the target population are the employees that are in entry and lower-positions in the departments that suffer a high turnover.  
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
@@ -22,7 +22,7 @@
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-   I think the only way to get the equivalent information by an observational study would be to talk to the same sample of employees, which will be very costly in terms of time.  So it is not possible to use observational study to achieve the same purpose.
+   I think the only way to get the equivalent information by an observational study would be to talk to the same sample of employees, which will be very costly in terms of time.  Another way to get the answers of the survey questions will be during the exit interview of the employees, which does not intervene their behaviour (of quitting).  However, it will be too late by then and cannot achieve the purpose of finding out potential issues from these employees, make changes and prevent the resignations. 
     ```
 
 ## Why am I doing this assignment?
